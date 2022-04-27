@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<!--
-**andresgrdn/andresgrdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Technologies that I've used :smile:
+
+HTML5, CSS3, JS, POSTMAN, FIGMA
+
+<!--
+### Projects
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
