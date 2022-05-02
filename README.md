@@ -1,3 +1,5 @@
+<!--Greetings-->
+
 <h1 align="center">
   Hi, I'm Andres Gordon
   <!--sleeping cat-->
@@ -17,6 +19,7 @@
 <!--computer cat-->
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" width="200">
 
+<!--Greetings-->
 
 
 <!--
@@ -30,6 +33,7 @@
 -->
 
 
+<!--Connect with me-->
 
 <h2>
   <!--high five-->
@@ -45,10 +49,10 @@
 (https://dev.to/iayeshasahar)
 -->
 
+<!--Connect with me-->
 
 
-
-
+<!--Technologies I use-->
 
 <h2>
   <!--pankcat-->
@@ -77,9 +81,10 @@
 <!--![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)-->
 <!--![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)-->
 
+<!--Technologies I use-->
 
 
-
+<!--Tools I Use-->
 
 <h2>
   <!--toad vibing-->
@@ -99,6 +104,21 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 -->
+
+<!--Tools I Use-->
+
+
+<!--Footer-->
+
+<p align="center">
+  Made with :sparkling_heart: by
+  <a href="https://andresgrdn.github.io">
+    Andres Gordon
+  </a>
+</p>
+
+<!--Footer-->
+
 
 <!--
 ### Projects
