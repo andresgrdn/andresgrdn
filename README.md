@@ -16,21 +16,25 @@
   -->
 </h1>
 
-<!--computer cat-->
-<img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" width="100px">
-
 <!--Greetings-->
 
 
-<!--
+
+<!--About me-->
+
 ## About me
+
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Frontend Web developer 👩‍💻, for now 😉 <br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Making some projects using Javascript ✨<br>
+<!--
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I write articles on Python, C++, UI/UX Design and Web Development to make your learning journey easier :)<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I believe in learning by building and being consistent in what I do. <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I actually like C++ but not as much as I like python though😉<br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Full stack Web developer 👩‍💻 <br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Hoping to make some projects using Machine Learning by the end of this year ✨<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> When I'm not coding, I am probably exploring new concepts, or thinking about my next project. 
 -->
+
+<!--About me-->
+
 
 
 <!--Connect with me-->
