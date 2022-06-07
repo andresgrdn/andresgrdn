@@ -3,7 +3,7 @@
 <h1 align="center">
   Hi, I'm Andres Gordon
   <!--sleeping cat-->
-  <img src="https://media.giphy.com/media/b2cphlu7GqmYM/giphy.gif" width="24px">
+  <img src="https://media.giphy.com/media/b2cphlu7GqmYM/giphy.gif" width="24">
   
   <!--paw greetting
   <img src="https://media.giphy.com/media/3UPNs8vXyJESQ/giphy.gif" width="50">
@@ -42,7 +42,7 @@
 
 <h2>
   <!--high five-->
-  <img src="https://media.giphy.com/media/NQDcH2ZZaPV8QBDYK3/giphy.gif" width="24px">
+  <img src="https://media.giphy.com/media/NQDcH2ZZaPV8QBDYK3/giphy.gif" width="24">
   Connect with me 
 </h2>
   
@@ -61,7 +61,7 @@
 
 <h2>
   <!--pankcat-->
-  <img src="https://media.giphy.com/media/a2YsvQ7btQTiOUSkAd/giphy.gif" width="24px">
+  <img src="https://media.giphy.com/media/a2YsvQ7btQTiOUSkAd/giphy.gif" width="24">
   Technologies I use
 </h2>
 
@@ -93,7 +93,7 @@
 
 <h2>
   <!--toad vibing-->
-  <img src="https://media.giphy.com/media/6FxJBpNTBgWdJCXKD4/giphy.gif" width="24px">
+  <img src="https://media.giphy.com/media/6FxJBpNTBgWdJCXKD4/giphy.gif" width="24">
   Tools I Use
 </h2>
 
