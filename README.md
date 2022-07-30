@@ -1,61 +1,59 @@
 <!--Greetings-->
 
-<h1 align="center">
-  Hi, I'm Andres Gordon
-  <!--sleeping cat-->
-  <img src="https://media.giphy.com/media/b2cphlu7GqmYM/giphy.gif" width="24">
-  
-  <!--paw greetting
-  <img src="https://media.giphy.com/media/3UPNs8vXyJESQ/giphy.gif" width="50">
-  -->
-  <!--paw chat
-  <img src="https://media.giphy.com/media/bJXVsDJI1q2tORd3RB/giphy.gif" width="50">
-  -->
-  <!--two paw greetting
-  <img src="https://media.giphy.com/media/UdxJwrriQpQ2Y/giphy.gif" width="50">
-  -->
+<h1 align="center"
+  style="
+    --bg-color:#FFFD77;
+    color: black;
+    background-color:var(--bg-color);
+    padding-block: 1em;
+  ">
+  Hi, I'm Andres Gordon <img src="https://media.giphy.com/media/b2cphlu7GqmYM/giphy.gif" width="24">
 </h1>
 
 <!--Greetings-->
-
-
-
-<!--About me-->
-
-## About me
-
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Frontend Web developer 👩‍💻, for now 😉 <br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Making some projects using Javascript ✨<br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Some projects finished [😉✨ Here](https://andresgrdn.github.io) <br>
-<!--
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I write articles on Python, C++, UI/UX Design and Web Development to make your learning journey easier :)<br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I believe in learning by building and being consistent in what I do. <br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I actually like C++ but not as much as I like python though😉<br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> When I'm not coding, I am probably exploring new concepts, or thinking about my next project. 
--->
-
-<!--About me-->
-
 
 
 <!--Connect with me-->
 
 <h2>
   <!--high five-->
-  <img src="https://media.giphy.com/media/NQDcH2ZZaPV8QBDYK3/giphy.gif" width="24">
-  Connect with me 
+  <img src="https://media.giphy.com/media/NQDcH2ZZaPV8QBDYK3/giphy.gif" width="24"> Connect with me 
 </h2>
-  
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&label=@andresgrdn" />](https://twitter.com/andresgrdn)
-[<img alt="Personal website" src="https://img.shields.io/badge/Website-1BE354?style=for-the-badge&logo=cloudbees&logoColor=white&label=andresgrdn.github.io" />](https://twitter.com/andresgrdn)
 
-<!--
-[<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://thecodingcompany.hashnode.dev/)
-[<img alt="DEV.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />]
-(https://dev.to/iayeshasahar)
--->
+- 🐦 [@andresgrdn | Twitter](https://twitter.com/andresgrdn)
+- 🔗 [andresgrdn.github.io | Personal portafolio](https://andresgrdn.github.io)
 
 <!--Connect with me-->
+
+
+<!--Projects-->
+
+<h2>Projects</h2>
+
+- 🔭 I’m currently working on a Frontend Mentor challenge [rest-flag-search | live site](https://rest-flags.netlify.app/), the code is on this [repo](https://github.com/andresgrdn/rest-countries-api-with-color-theme-switcher).
+- <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> A [really fun project](https://editor.p5js.org/arcano/full/OdmPSs994) with 👁️, using p5js library, technicaly is a sketch, if you want to see inside, here is the [code](https://editor.p5js.org/arcano/sketches/OdmPSs994).
+
+<!--Projects-->
+
+
+<!--About me-->
+
+<h2>About me</h2>
+
+- Frontend Web developer 👩‍💻 😉.
+- 🌱 I’m currently learning webpack to make pro bundles.
+- I love 💚 the Platzi values [platzi profile](https://platzi.com/p/andres-gordon/).
+
+<!-- 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<!--About me-->
 
 
 <!--Technologies I use-->
@@ -66,24 +64,14 @@
   Technologies I use
 </h2>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/static/v1?&label=&message=HTML&style=flat&color=%3333&logo=html5)
+![](https://img.shields.io/static/v1?&label=&message=CSS&style=flat&color=%3333&logo=css3)
+![](https://img.shields.io/static/v1?&label=&message=JavaScript&style=flat&color=%3333&logo=javascript)
 
-
-<!--![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)-->
-<!--![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)-->
-<!--![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
 <!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
-<!--![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)-->
 <!--![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)-->
 <!--![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)-->
 <!--![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)-->
-<!--![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)-->
-<!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
-<!--![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)-->
-<!--![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)-->
-<!--![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)-->
 <!--![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)-->
 
 <!--Technologies I use-->
@@ -97,19 +85,13 @@
   Tools I Use
 </h2>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<a href="https://codepen.io/andresgordon" target="_blank">![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)</a>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<!--
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
--->
+![](https://img.shields.io/static/v1?&label=&style=flat&color=%3333&logo=figma&message=Figma)
+<a href="https://codepen.io/andresgordon" target="_blank">
+  ![](https://img.shields.io/static/v1?&label=&style=flat&color=%3333&logo=codepen&message=CodePen)
+</a>
+![](https://img.shields.io/static/v1?&label=&style=flat&color=%3333&logo=visual-studio-code&message=Visual%20studio%20code)
+![](https://img.shields.io/static/v1?&label=&style=flat&color=%3333&logo=webpack&message=Webpack)
+![](https://img.shields.io/static/v1?&label=&style=flat&color=%3333&logo=linux&message=Linux)
 
 <!--Tools I Use-->
 
@@ -117,25 +99,7 @@
 <!--Footer-->
 
 <p align="center">
-  Made with :sparkling_heart: by
-  <a href="https://andresgrdn.github.io">
-    Andres Gordon
-  </a>
+  Made with 💖 by <a href="https://andresgrdn.github.io">Andres Gordon</a>
 </p>
 
 <!--Footer-->
-
-
-<!--
-### Projects
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
