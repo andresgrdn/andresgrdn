@@ -29,37 +29,30 @@
 </h2>
 
 - 🐦 [@andresgrdn | Twitter](https://twitter.com/andresgrdn)
-- 🔗 [andresgrdn.github.io | Personal portafolio](https://andresgrdn.github.io)
+- 🔗 [andresgrdn.github.io | Personal portfolio](https://andresgrdn.github.io)
 
 <!--Connect with me-->
 
 
 <!--Projects-->
 
-<h2>Projects</h2>
+<h2>Projects 🎆</h2>
 
-- 🔭 I’m currently working on a Frontend Mentor challenge [rest-flag-search | live site](https://rest-flags.netlify.app/), the code is on this [repo](https://github.com/andresgrdn/rest-countries-api-with-color-theme-switcher).
-- <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> A [really fun project](https://editor.p5js.org/arcano/full/OdmPSs994) with 👁️, using p5js library, technicaly is a sketch, if you want to see inside, the code is [here](https://editor.p5js.org/arcano/sketches/OdmPSs994).
+- 🔭 I’m currently working on a Frontend Mentor challenge [flags finder | live site](https://flags-finder.netlify.app/), the code is on this [repo](https://github.com/andresgrdn/rest-countries-api-with-color-theme-switcher).
+\
+\
+<img src="https://media.giphy.com/media/jLdP67nhu9RBcUKqyg/giphy.gif">
+
+- <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> A [really fun project](https://editor.p5js.org/arcano/full/OdmPSs994) with 👁️, using p5js library, technically is a sketch, if you want to see inside, the code is [here](https://editor.p5js.org/arcano/sketches/OdmPSs994).
 
 <!--Projects-->
 
 
 <!--About me-->
 
-<h2>About me</h2>
+<h2>✨ About me</h2>
 
-- Frontend Web developer 👩‍💻 😉.
-- 🌱 I’m currently learning webpack to make pro bundles.
-- I love 💚 the Platzi values [platzi profile](https://platzi.com/p/andres-gordon/).
-
-<!-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend web developer 👩‍💻 😉, with experience in web technologies such as CSS, HTML and JavaScript for the layout of web products, also in the use of local collaboration technologies with git and remote with GitHub, always following good practices such as mobile first, BEM convention. Looking to collaborate in the development of web products. 🌱 I’m currently learning webpack to make pro bundles.
 
 <!--About me-->
 
