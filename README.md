@@ -36,12 +36,27 @@
 
 <!--Projects-->
 
-<h2>Projects 🎆</h2>
+<h2>Some projects 🎆</h2>
 
-- 🔭 I’m currently working on a Frontend Mentor challenge [flags finder | live site](https://flags-finder.netlify.app/), the code is on this [repo](https://github.com/andresgrdn/rest-countries-api-with-color-theme-switcher).
-<img src="https://media.giphy.com/media/jLdP67nhu9RBcUKqyg/giphy.gif">
-
-- <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> A [really fun project](https://editor.p5js.org/arcano/full/OdmPSs994) with 👁️, using p5js library, technically is a sketch, if you want to see inside, the code is [here](https://editor.p5js.org/arcano/sketches/OdmPSs994).
+<table>
+  <tr>
+    <td>
+      🔭 I’m currently working on a Frontend Mentor challenge <a href="https://flags-finder.netlify.app/" target="_blank">flags finder | live site</a>, the code is on this <a href="https://github.com/andresgrdn/rest-countries-api-with-color-theme-switcher" target="_blank">repo</a>.
+    </td>
+    <td>
+      <img styles="text-align: center;width: 100%;" src="https://media.giphy.com/media/jLdP67nhu9RBcUKqyg/giphy.gif">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> A <a href="https://editor.p5js.org/arcano/full/OdmPSs994" target="_blank">really fun project</a> with 👁️, using p5js library, technically is a sketch, if you want to see inside, the code is <a href="https://editor.p5js.org/arcano/sketches/OdmPSs994" target="_blank">here</a>.
+    </td>
+    <td>
+      <img styles="text-align: center;width: 100%;" src="https://media.giphy.com/media/0M3eBPXQNah5pfLPxv/giphy.gif">
+    </td>
+  </tr>
+</table>
 
 <!--Projects-->
 
