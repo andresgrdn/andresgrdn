@@ -39,8 +39,6 @@
 <h2>Projects 🎆</h2>
 
 - 🔭 I’m currently working on a Frontend Mentor challenge [flags finder | live site](https://flags-finder.netlify.app/), the code is on this [repo](https://github.com/andresgrdn/rest-countries-api-with-color-theme-switcher).
-\
-\
 <img src="https://media.giphy.com/media/jLdP67nhu9RBcUKqyg/giphy.gif">
 
 - <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> A [really fun project](https://editor.p5js.org/arcano/full/OdmPSs994) with 👁️, using p5js library, technically is a sketch, if you want to see inside, the code is [here](https://editor.p5js.org/arcano/sketches/OdmPSs994).
