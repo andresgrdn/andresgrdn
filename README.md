@@ -56,6 +56,15 @@
       <img styles="text-align: center;width: 100%;" src="https://media.giphy.com/media/0M3eBPXQNah5pfLPxv/giphy.gif">
     </td>
   </tr>
+  
+   <tr>
+    <td>
+      The old and trusty to-do list app <img height="20" src="https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif">  that uses the Create React app to learn the basics of React. The repository is <a href="https://github.com/andresgrdn/react-todo-list-app" target="_blank">here</a>, and the live site is <a href="https://andrestodolist.netlify.app/" target="_blank">here</a>.
+    </td>
+    <td>
+      <img styles="text-align: center;width: 100%;" src="https://media.giphy.com/media/VbcxUtxPxG7eurTowm/giphy.gif">
+    </td>
+  </tr>
 </table>
 
 <!--Projects-->
