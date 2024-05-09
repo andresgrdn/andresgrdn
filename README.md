@@ -15,7 +15,7 @@
       font: italic 0.6em sans-serif;
       text-decoration: wavy underline;
     ">
-    Frontend developer</span>
+    Developer</span>
 </h1>
 
 <!--Greetings-->
